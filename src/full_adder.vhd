@@ -1,7 +1,4 @@
-----------------------------------------------------------------------------------
--- Full Adder
--- See Digital Design and Computer Architecture, RISC-V Figure 5.3 
-----------------------------------------------------------------------------------
+
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
 
